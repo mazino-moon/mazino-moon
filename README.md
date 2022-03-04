@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/xxx?style=flat-square&logo=RedHat&logoColor=white"/>
+<img src="https://img.shields.io/badge/xxx?style=flat-square&logo=Red Hat&logoColor=white"/>
