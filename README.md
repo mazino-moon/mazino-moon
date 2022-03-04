@@ -23,11 +23,11 @@
 </p>
 
 <br>
-
+[![mazino-moon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mazino-moon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/mazino-moon)
 
 ![mazino-moon's github stats](https://github-readme-stats.vercel.app/api?username=mazino-moon&show_icons=true)
 
-[![mazino-moon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mazino-moon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/mazino-moon)
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mazino-moon)
 
