@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/xxx?style=flat-square&logo=CNN&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/python-white.svg#gh-dark-mode-only" alt="Python" align="left" width="24" height="24" style="max-width: 100%;">
