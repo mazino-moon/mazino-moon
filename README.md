@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/xxx?style=flat-square&logo=CNN&logoColor=white"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/python-white.svg#gh-dark-mode-only" alt="Python" align="left" width="24" height="24" style="max-width: 100%;">
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/xxx-FFFF?style=flat-square&logo=Facebook&logoColor=white"/></a>
+!mazino-moon(https://github-readme-stats.vercel.app/api?username=mazino-moon&show_icons=true)
+!mazino-moon(https://github-readme-stats.vercel.app/api/top-langs/?username=mazino-moonID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/mazino-moon)
