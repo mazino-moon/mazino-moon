@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/for-te-badge-FFFFFF?style=plastic&logo=Red Hat&logoColor=FFFFFF"/></a>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/simpleicons.svg#gh-light-mode-only" alt="Simple Icons" width=70><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/simpleicons-white.svg#gh-dark-mode-only" alt="Simple Icons" width=70>
+<a href="https://packagist.org/packages/simple-icons/simple-icons"><img src="https://img.shields.io/packagist/v/simple-icons/simple-icons?logo=packagist&logoColor=white" alt="Build status"/></a>
