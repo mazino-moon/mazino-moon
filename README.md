@@ -2,7 +2,7 @@
 
 <p align="center">🇰🇷</p>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">♠️Tech Stack♣️</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
