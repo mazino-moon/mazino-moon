@@ -9,10 +9,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Linux-#FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/php-333664?style=flat-square&logo=php&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Kali Linux-#557C94?style=flat-square&logo=Kali Linux&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/wireshark-1572B6?style=flat-square&logo=wireshark&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
